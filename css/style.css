@@ -5,21 +5,19 @@
 }
 
 .about-sec {
-	padding:20px 50px;
 	background-color:#000;
 }
 .about-container {
 	width:100%;
 	margin:0 auto;
+	padding:30px 50px;
 }
 .about-row {
 	display:flex;
-	
 }
 
 .about-col {
 	width:50%;
-	
 	
 }
 .about-content {
@@ -28,7 +26,7 @@
 	width:90%;
 }
 .about-banner {
-	
+	width:100%;
 }
 .about-banner img {
 	width:100%;
@@ -46,18 +44,18 @@
 	
 	color:#fff;
 	font-weight:500;
-    font-size:35px;
+    font-size:43px;
 	line-height:1.2;
 	font-family: 'Roboto Condensed', sans-serif;
 }
 .about-heading p {
 	 font-weight:300;
-    font-size:18px;
+    font-size:15px;
 	padding-right:40px;
     margin: 35px 0 40px 0;
 	color:#d1cbcbcf;
 	word-spacing:2px;
-	line-height:1.2;
+	line-height:1.6;
 	font-family: 'Poppins', sans-serif;
 }
 .about-profile {
@@ -86,5 +84,4 @@
 	line-height:1.3;
 	color:#fff;
 	word-spacing:3px;
-	
 }
